@@ -1,0 +1,7 @@
+[server]
+host = "0.0.0.0"
+port = 8000
+burst_size = 131072
+[source]
+username = "source"
+password = "hackme"
